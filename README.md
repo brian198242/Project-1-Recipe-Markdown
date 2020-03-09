@@ -12,7 +12,12 @@ This a Recipe to make the Famous Chicken Sandwhich from popeyes
 
 # Ingredients
 
-- 
+- chicken breasts
+- buttermilk
+- flour
+- corn starch
+- spices
+- brioche buns
 
 # Directions
 1.
