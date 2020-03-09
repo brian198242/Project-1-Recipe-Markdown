@@ -37,9 +37,6 @@ This a Recipe to make the Famous Chicken Sandwhich from popeyes
 
 Melt 1 tablespoon butter in a large saucepan and toast buns face down until golden and crisp. Whisk all the ingredients for the mayo in a small bowl and spread a generous layer of mayo on each bun. Top with pickles and chicken. Enjoy hot! 
 
-# Notes
-
-
-
 # Inspired By
 
+The Creator Layla
