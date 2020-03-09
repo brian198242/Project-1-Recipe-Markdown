@@ -1,2 +1,25 @@
-# Project-1-Recipe-Markdown
-Chicken Sandwich Recipe Markdown
+# About
+
+
+
+![Chicken Sandwich]()
+
+- **Prep:** 
+- **Cook:** 
+- **Total:** 
+- **Servings:** 
+- **Total Cost:** 
+
+# Ingredients
+
+- 
+
+# Directions
+1.
+
+# Notes
+
+
+
+# Inspired By
+
